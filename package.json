@@ -4,6 +4,8 @@
   "description": "XBRL toolkit",
   "main": "index.js",
   "scripts": {
+  },
+  "dependencies": {
 
   },
   "author": "Michael J Melton",
